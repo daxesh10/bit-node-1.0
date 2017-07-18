@@ -1,0 +1,18 @@
+{
+  "name": "bitnode",
+  "version": "1.0.0",
+  "description": "coin1.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "dex",
+  "license": "ISC",
+  "dependencies": {
+    "angularfire": "^2.3.0",
+    "express": "^4.15.3",
+    "node-litecoin": "^1.0.1",
+    "path": "^0.12.7"
+  }
+}
